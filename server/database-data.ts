@@ -1,4 +1,8 @@
+import { dbUser } from "./db-user";
 
+export const USERS : {[key: number]: dbUser}= {
+
+};
 
 export const LESSONS = {
 
